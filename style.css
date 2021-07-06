@@ -100,7 +100,7 @@ padding: 90px;
 }
 
 .all-pic h1{
-    color: orangered;
+    color: orange;
 }
 
 .pic1{
@@ -143,12 +143,16 @@ border-radius: 20px;
     background-color: bisque;
     width: 100%;
     height: 140px;
+   
+    
+    
 }
 
 .box .k200{
     width: 33%;
     left: 400px;
     position: relative;
+    
 }
 
 .box .k300{
@@ -159,6 +163,7 @@ border-radius: 20px;
 
 .box .k400{
     width: 33%;
+    
 }
 
 .box span{
